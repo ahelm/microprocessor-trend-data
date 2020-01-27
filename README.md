@@ -5,6 +5,10 @@ The data related to the years before 2018 are just copied by Karl's repo. New da
 Additionally, a python script is added to plot the data and generate the *svg* image.
 **Please note** that the new data and the new analysis will take some working days.
 
+The Microprocessor Trend with the new data:
+
+![Trend](microprocessor_trend.eps)
+
 *Leonardo Suriano*
 
 Below, it is possible to find the original readme written by Karl Rupp:
@@ -20,7 +24,7 @@ This repository contains the raw data used in my blog series on microprocessor t
 
 All raw data and my own plots are available under a Creative Commons Attribution 4.0 International Public License, see file [LICENSE.txt](LICENSE.txt) for details.
 
-**Snippet: **
+**Snippet:**
 ```
 This data and plotting script is provided under the permissive 'Creative Commons Attribution 4.0 International Public License'
 In short, you are free to:
