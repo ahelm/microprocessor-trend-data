@@ -2,10 +2,16 @@
 # Threads := No. of logical cores (SMT threads counted separately)
 #
 # Intel (see https://en.wikipedia.org/wiki/List_of_Intel_Cascade_Lake-based_Xeon_microprocessors)
-# Intel ()
+# Intel (see https://en.wikipedia.org/wiki/List_of_Intel_Cascade_Lake-based_Xeon_microprocessors)
 
 
 
 # Name         Year     Trans.(10^9)   SpecInt    Freq (GHz)  TDP    Threads   Notes
 Xeon D-2191    2018.02                            1.6         86     36
 Xeon 6212U     2019.04                            2.4         165    48
+Xeon D-2187NT  2018.02                            2           110    32
+Xeon 6269Y     2019.04                            3.2         240    44
+Xeon 6262V     2019.05                            1.9         135    48
+Xeon 8284      2019.04                            3           240    56
+Xeon 9282      2019.04                            2.6         400    112
+Xeon W-3275M   2019.05                            2.5         205    56
