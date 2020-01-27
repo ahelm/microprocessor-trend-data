@@ -3,6 +3,7 @@
 #
 # Intel (see https://en.wikipedia.org/wiki/List_of_Intel_Cascade_Lake-based_Xeon_microprocessors)
 # Intel (see https://en.wikipedia.org/wiki/List_of_Intel_Cascade_Lake-based_Xeon_microprocessors)
+# CPU feature and comparison (see https://www.techarp.com/) 
 
 
 
@@ -15,3 +16,6 @@ Xeon 6262V     2019.05                            1.9         135    48
 Xeon 8284      2019.04                            3           240    56
 Xeon 9282      2019.04                            2.6         400    112
 Xeon W-3275M   2019.05                            2.5         205    56
+EPYC 3451      2018.02  4.8                       2.15        100    32
+EPYC 3401      2018.02  4.8                       1.85        85     16
+Xeon W-3275M   2019.06  ??                        2.5         205    48
