@@ -7,7 +7,7 @@ Additionally, a python script is added to plot the data and generate the *svg* i
 
 The Microprocessor Trend with the new data:
 
-![Trend](microprocessor_trend.eps)
+![Trend](https://github.com/leos313/microprocessor-trend-data/blob/master/44yrs/microprocessor_trend.png)
 
 *Leonardo Suriano*
 
